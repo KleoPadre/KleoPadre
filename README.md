@@ -1,20 +1,35 @@
-### Hi there 👋
-My name is Levon
+<div align="center">
 
-<!--
-**KleoPadre/KleoPadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Levon 👋
 
-Here are some ideas to get you started:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/levonosipov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levonosipov/)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
-- ⚡ Fun fact: developing with GPT's
+</div>
 
-- 🔭 I’m currently working on: axenix.pro
-- 🔗 My [LinkedIn](https://www.linkedin.com/in/levonosipov/)
-- 💬 My [Telegram](https://t.me/levonosipov)
+---
+
+## 💡 About Me
+
+- 🏢 Senior Technical Support @ **Axenix**, Tver
+- ⚙️ Self-employed — building bots, tools & side projects
+- 🤖 Telegram bot developer with subscription monetization
+- 🤝 Collaborating with AI to bring ideas to life
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![KleoPadre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KleoPadre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Ideas are mine. Code is ours."*
+
+</div>
