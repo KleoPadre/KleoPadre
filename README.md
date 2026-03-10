@@ -21,8 +21,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![KleoPadre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KleoPadre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=KleoPadre&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
