@@ -20,7 +20,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=KleoPadre&theme=gotham&card_width=600&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KleoPadre&theme=neon-dark&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 </div>
 
